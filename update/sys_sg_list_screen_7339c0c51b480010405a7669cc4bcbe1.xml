@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Controle suas tarefas de maneira eficiente tarefas</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Clipboard-V">ab3988851b480010405a7669cc4bcb0d</icon>
+        <name>tarefass</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-20 14:12:46</sys_created_on>
+        <sys_id>7339c0c51b480010405a7669cc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tarefass</sys_name>
+        <sys_package display_value="Minhas Tarefas" source="x_snc_sc_tasks">f46804451b480010405a7669cc4bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Minhas Tarefas">f46804451b480010405a7669cc4bcb8d</sys_scope>
+        <sys_update_name>sys_sg_list_screen_7339c0c51b480010405a7669cc4bcbe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-20 14:12:46</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7339c0c51b480010405a7669cc4bcbe1"/>
+</record_update>

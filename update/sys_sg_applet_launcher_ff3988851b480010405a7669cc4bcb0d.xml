@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Minhas Tarefas</name>
+        <required_roles>x_snc_sc_tasks.minhas_tarefas</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-20 14:12:46</sys_created_on>
+        <sys_id>ff3988851b480010405a7669cc4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Minhas Tarefas</sys_name>
+        <sys_package display_value="Minhas Tarefas" source="x_snc_sc_tasks">f46804451b480010405a7669cc4bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Minhas Tarefas">f46804451b480010405a7669cc4bcb8d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_ff3988851b480010405a7669cc4bcb0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-20 14:12:46</sys_updated_on>
+        <title>Minhas Tarefas</title>
+    </sys_sg_applet_launcher>
+</record_update>
