@@ -4,7 +4,8 @@
         <application display_value="Minhas Tarefas">9b5904c51b480010405a7669cc4bcb76</application>
         <assessment/>
         <device_type/>
-        <filter table="x_snc_sc_tasks_tarefas">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        <filter table="x_snc_sc_tasks_tarefas">active=true^opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="opened_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>
@@ -15,7 +16,7 @@
         <mobile_title>Open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_snc_sc_tasks_tarefas</name>
-        <order>3</order>
+        <order>4</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -26,17 +27,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>575904c51b480010405a7669cc4bcb7d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Open</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Abertas (lista)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Minhas Tarefas" source="x_snc_sc_tasks">f46804451b480010405a7669cc4bcb8d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Minhas Tarefas">f46804451b480010405a7669cc4bcb8d</sys_scope>
         <sys_update_name>sys_app_module_575904c51b480010405a7669cc4bcb7d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-20 14:13:18</sys_updated_on>
+        <sys_updated_on>2019-09-20 20:05:18</sys_updated_on>
         <timeline_page/>
-        <title>Open</title>
+        <title>Abertas (lista)</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
